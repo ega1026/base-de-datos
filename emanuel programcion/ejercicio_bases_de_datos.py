@@ -1,7 +1,7 @@
 import sqlite3
 
 # -------------------------------
-# Conexión y creación de base de datos de python
+# Conexión y creación de base de datos de python emanuel
 # -------------------------------
 conn = sqlite3.connect("tienda.db")
 cursor = conn.cursor()
